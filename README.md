@@ -16,8 +16,10 @@ I have converted whole db.json data into API for fetching displaying the data li
 
 5. You can perform all the API operations using Postman or Insomnia.
 
-6. For Search option I have used Pokemon web API to display all the details along with the images to make application look good.
+6. For Search I have used Pokemon web API(https://pokeapi.co/api/v2/pokemon?limit=100 as it contains complete data of pokemons) to fetch and to display all the details along with the images to make application look good.
 
 7. In search option , you can search for any pokemon and you will get the desired card result and on further clicking you can get more details about Pokemon.
 
-8. Routing details can be found in App.js.
+8. Routing details can be found in App.js .
+
+9. Screenshots are attached for reference.
