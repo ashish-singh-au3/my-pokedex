@@ -1,3 +1,9 @@
+My approach to build this App:
+
+I have created RESTful API's using db.json data where all the requests can be performed like POST,GET,PUT,DELETE etc. Then I have used Fetch along with axios to get the data in order to display in UI.
+
+Created separate database and API to store the information for new Pokemons.
+
 Steps to run the project :
 
 1. Run npm install to download all the dependencies along with node modules.
