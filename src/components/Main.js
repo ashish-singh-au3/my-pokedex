@@ -25,7 +25,7 @@ export default class Main extends Component {
   }
 
   componentWillMount() {
-    fetch("http://localhost:5000/pokemon/?_limit=100") // I have set the limit to 100 in order to load 100 pokemons, you can extend it to any number.
+    fetch("http://localhost:4000/pokemon/?_limit=100") // I have set the limit to 100 in order to load 100 pokemons, you can extend it to any number.
       .then((res) => res.json())
       .then((data) => this.setState({ pokemon: data }));
   }
