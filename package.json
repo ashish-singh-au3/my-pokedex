@@ -1,8 +1,7 @@
 {
-  "name": "my-pokedex",
+  "name": "pokedex-builder",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ashish-singh-au3.github.io/my-pokedex",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
